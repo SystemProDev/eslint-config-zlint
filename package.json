@@ -1,0 +1,24 @@
+{
+  "name": "zlint",
+  "version": "1.0.0",
+  "description": "Linting styles",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SystemProDev/zlint.git"
+  },
+  "keywords": ["ESLint", "Linting", "Zoran Panev"],
+  "author": "Zoran Panev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SystemProDev/zlint/issues"
+  },
+  "homepage": "https://github.com/SystemProDev/zlint#readme",
+  "devDependencies": {
+    "eslint": "^5.2.0"
+  }
+}
