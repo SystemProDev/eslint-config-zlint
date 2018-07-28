@@ -1,0 +1,2 @@
+# zlint
+Linting styles
