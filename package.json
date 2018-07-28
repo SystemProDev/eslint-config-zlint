@@ -11,7 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/SystemProDev/zlint.git"
   },
-  "keywords": ["ESLint", "Linting", "Zoran Panev"],
+  "keywords": [
+    "ESLint",
+    "Linting",
+    "Zoran Panev"
+  ],
   "author": "Zoran Panev",
   "license": "ISC",
   "bugs": {
